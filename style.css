@@ -1,0 +1,42 @@
+/* Style da Page Teste */
+p{
+    color:cornsilk;
+    font-size:12px;
+
+}
+
+h1{
+    font-size: 47px;
+    color:white;
+    font-family:Scotties,helvetica, Arial;
+}
+
+body{
+    background-color:#262626;
+    font-family: arial;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:#00802b;
+    height: 90px;
+}
+
+#div_esquerda{
+ 
+    background-color:red;
+    min-height: 200px;
+    width: 50%;
+    float:right;
+}
+
+#div_direita{
+   
+    background-color:cyan;
+    min-height: 200px;
+    width: 50%;
+    float:left;
+}
